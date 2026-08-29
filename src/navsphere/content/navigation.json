@@ -105,6 +105,15 @@
           "icon": "/assets/favicon_1787974808490.svg",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1787974965741",
+          "title": "订阅管理系统",
+          "href": "https://szc.us.ci",
+          "description": "订阅管理系统",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=szc.us.ci",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
