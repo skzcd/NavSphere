@@ -71,6 +71,15 @@
           "enabled": true
         },
         {
+          "id": "1787974828878",
+          "title": "DNSPod-免费智能DNS解析服务商-电信_网通_教育网,智能DNS-烟台帝思普网络科技有限公司",
+          "href": "https://www.dnspod.cn",
+          "description": "DNSPod是国内提供智能DNS产品的网站，致力于为各类网站提供高质量的电信、网通、教育网双线或者三线智能DNS免费解析。目前DNSPod已经是国内最大的免费DNS解析产品提供商",
+          "icon": "/assets/favicon_1787974863693.ico",
+          "useDefaultIcon": false,
+          "enabled": true
+        },
+        {
           "id": "1787974671798",
           "title": "EU.org: free domain names since 1996",
           "href": "https://nic.eu.org",
@@ -94,15 +103,6 @@
           "href": "https://www.mefrp.com/dashboard/home",
           "description": "ME Frp 幻缘映射是国内领先的内网穿透服务提供商，为极客及开发者提供完全免费的一站式内网穿透与端口映射服务。支持 Minecraft/泰拉瑞亚等各种游戏联机、远程桌面控制、Web 开发调试及企业建站。高速稳定节点分布，半公益性质，让内网服务触手可及。",
           "icon": "/assets/favicon_1787974808490.svg",
-          "useDefaultIcon": false,
-          "enabled": true
-        },
-        {
-          "id": "1787974828878",
-          "title": "DNSPod-免费智能DNS解析服务商-电信_网通_教育网,智能DNS-烟台帝思普网络科技有限公司",
-          "href": "https://www.dnspod.cn",
-          "description": "DNSPod是国内提供智能DNS产品的网站，致力于为各类网站提供高质量的电信、网通、教育网双线或者三线智能DNS免费解析。目前DNSPod已经是国内最大的免费DNS解析产品提供商",
-          "icon": "/assets/favicon_1787974863693.ico",
           "useDefaultIcon": false,
           "enabled": true
         }
