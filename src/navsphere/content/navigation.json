@@ -60,6 +60,15 @@
           "icon": "/assets/favicon_1787974477015.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1787974557118",
+          "title": "eu.cc域名0元注册，快速开通属于你的在线身份 | GNAME官方免费活动_域名注册购买,云服务器,云产品,企业邮箱,网站安全",
+          "href": "https://gname.vip/tld-eu-cc.html",
+          "description": "（域名注册   有效期1年（可免费续期理论永久）   可托管Cloudflare）\n注册eu.cc域名，体验与顶级域名相同的管理权限与功能！所有用户均可享受3个永久免费注册名额，升级为高级经销商更可获得最多20个名额。GNAME为用户提供免费的eu.cc域名注册名额，助力您的品牌建设。",
+          "icon": "/assets/favicon_1787974564941.ico",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
