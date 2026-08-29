@@ -69,6 +69,15 @@
           "icon": "/assets/favicon_1787974564941.ico",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1787974671798",
+          "title": "EU.org: free domain names since 1996",
+          "href": "https://nic.eu.org",
+          "description": "域名注册   有效期永久（人工审核时间长几天至1年，可能不通过）   可托管Cloudflare",
+          "icon": "/assets/favicon_1787974675472.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
