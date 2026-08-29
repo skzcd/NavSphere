@@ -24,6 +24,15 @@
           "icon": "/assets/favicon_1787974154605.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1787974166530",
+          "title": "Afraid",
+          "href": "https://afraid.org",
+          "description": "域名注册   有效期永久（可能被收回）   不可托管Cloudflare",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=afraid.org",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
