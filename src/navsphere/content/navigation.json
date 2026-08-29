@@ -6,7 +6,17 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1787973961924",
+          "title": "随时随地连接、保护和构建 | Cloudflare",
+          "href": "https://www.cloudflare-cn.com",
+          "description": "Cloudflare域名托管",
+          "icon": "/assets/favicon_1787973966732.ico",
+          "useDefaultIcon": false,
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
