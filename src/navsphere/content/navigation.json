@@ -159,6 +159,15 @@
           "icon": "/assets/favicon_1787975353598.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1787975424107",
+          "title": "宝塔面板(bt.cn) 简单好用的Linux/Windows服务器运维管理面板",
+          "href": "https://www.bt.cn/login",
+          "description": "宝塔(bt.cn)，让运维简单高效。面板支持Linux与Windows系统。一键配置：LAMP/LNMP、网站、数据库、FTP、SSL，通过Web端轻松管理服务器。",
+          "icon": "/assets/favicon_1787975452387.ico",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
