@@ -15,6 +15,15 @@
           "icon": "/assets/favicon_1787973966732.ico",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1787974144970",
+          "title": "GitHub · Change is constant. GitHub keeps you ahead. · GitHub",
+          "href": "https://github.com",
+          "description": "Join the world&#39;s most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.",
+          "icon": "/assets/favicon_1787974154605.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
