@@ -1570,6 +1570,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1787973285612",
+      "title": "我的收藏",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
