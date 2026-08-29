@@ -78,6 +78,15 @@
           "icon": "/assets/favicon_1787974675472.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1787974762630",
+          "title": "Hpproxy",
+          "href": "https://www.hpproxy.cn/#/home/login",
+          "description": "HP内网穿透",
+          "icon": "/assets/favicon_1787974766765.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
