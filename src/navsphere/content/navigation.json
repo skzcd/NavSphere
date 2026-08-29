@@ -1,6 +1,15 @@
 {
   "navigationItems": [
     {
+      "id": "1787973285612",
+      "title": "我的收藏",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
@@ -1570,15 +1579,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1787973285612",
-      "title": "我的收藏",
-      "icon": "FolderKanban",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
