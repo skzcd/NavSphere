@@ -150,6 +150,15 @@
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=vvs.szz.cc.cd",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1787975343572",
+          "title": "Fnnas",
+          "href": "https://fnnas.com",
+          "description": "飞牛fnOS   nas官网",
+          "icon": "/assets/favicon_1787975353598.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
