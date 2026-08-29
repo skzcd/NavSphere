@@ -132,6 +132,15 @@
           "icon": "/assets/favicon_1787975118239.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1787975143091",
+          "title": "The Movie Database (TMDB)",
+          "href": "https://www.themoviedb.org",
+          "description": "TMDB",
+          "icon": "/assets/favicon_1787975146020.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
