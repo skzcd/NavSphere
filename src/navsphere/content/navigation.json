@@ -51,6 +51,15 @@
           "icon": "/assets/favicon_1787974402392.gif",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1787974473095",
+          "title": "My",
+          "href": "https://my.dnshe.com",
+          "description": "域名注册   有效期1年（可通过任务升级永久）   可托管Cloudflare",
+          "icon": "/assets/favicon_1787974477015.png",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
