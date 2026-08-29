@@ -33,6 +33,15 @@
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=afraid.org",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1787974306760",
+          "title": "DigitalPlat Dashboard",
+          "href": "https://dashboard.digitalplat.org/auth/login",
+          "description": "域名注册   有效期1年（可免费续期理论永久）   可托管Cloudflare",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=dashboard.digitalplat.org",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
