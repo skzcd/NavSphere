@@ -87,6 +87,15 @@
           "icon": "/assets/favicon_1787974766765.png",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "1787974781223",
+          "title": "ME Frp - 幻缘映射 | 内网穿透_免费_高速_稳定_端口映射_Minecraft联机_我的世界联机_远程桌面_开发调试_建站_半公益_群辉NAS_飞牛_无需公网",
+          "href": "https://www.mefrp.com/dashboard/home",
+          "description": "ME Frp 幻缘映射是国内领先的内网穿透服务提供商，为极客及开发者提供完全免费的一站式内网穿透与端口映射服务。支持 Minecraft/泰拉瑞亚等各种游戏联机、远程桌面控制、Web 开发调试及企业建站。高速稳定节点分布，半公益性质，让内网服务触手可及。",
+          "icon": "/assets/favicon_1787974808490.svg",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
