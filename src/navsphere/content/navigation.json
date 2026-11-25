@@ -168,6 +168,15 @@
           "icon": "/assets/favicon_1787975452387.ico",
           "useDefaultIcon": false,
           "enabled": true
+        },
+        {
+          "id": "site_1795589987396_38jei00y1",
+          "title": "1A2X社区-自由、开放、互助、平等的网络交流社区",
+          "href": "https://1a2x.com/",
+          "description": "dnshe免费域名，交流社区",
+          "icon": "/assets/favicon_1795589831156.svg",
+          "useDefaultIcon": false,
+          "enabled": true
         }
       ],
       "subCategories": []
